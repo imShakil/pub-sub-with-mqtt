@@ -42,3 +42,5 @@ node publisher.js
 ```
 
 After then they will communicate each other and keep updating temparature.
+
+![Screenshot 2025-06-30 at 18 05 52](https://github.com/user-attachments/assets/0231f60f-e03b-4919-ac7a-9166b985d594)
