@@ -12,7 +12,7 @@ This is a simple real-world MQTT-based project that simulates a smart home tempe
 
 - Node.js
 - MQTT.js (`mqtt` npm package)
-- Public MQTT broker: [test.mosquitto.org](https://test.mosquitto.org)
+- [Setup your own broker](./setup-own-mqtt-broker.md) or use Public MQTT broker: [test.mosquitto.org](https://test.mosquitto.org)
 
 ## How to Test?
 
